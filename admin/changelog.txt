@@ -1,0 +1,4 @@
+20/01/2015 v0.0.1 - Commit inicial, somente cadastro de professores
+26/01/2015 v0.0.1 - Ajustando arquivos com a licença
+26/02/2015 v0.0.2 - Implementado login, ajustes nas views básicas.
+06/03/2015 v0.0.3 - Melhorado login e tela inicial.
